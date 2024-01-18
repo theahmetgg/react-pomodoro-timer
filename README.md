@@ -1,4 +1,5 @@
-![Uploading proje-2900.png…]()
+
+![pomodoro](https://github.com/theahmetgg/react-pomodoro-timer/assets/92268751/5e5754bf-4ffd-4d0f-8727-f9ac0853baa3)
 
 # Getting Started with Create React App
 
